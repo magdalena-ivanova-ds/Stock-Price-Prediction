@@ -16,7 +16,7 @@ It grabs historical data from Yahoo Finance with `yfinance`, applies some prepro
 ## How to run
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/stock-price-predictor.git
+   git clone https://github.com/magdalena-ivanova-ds/Stock-Price-Predictor.git
    cd stock-price-predictor
     ```
 
